@@ -25,10 +25,7 @@ The dashboard is organised into three pages: Trial Overview, Patient Outcomes, a
 ## Dataset
 
 The project uses a synthetic Phase III clinical trial dataset. The analysis includes patient, treatment, enrollment, adverse-event, dropout, clinical-site, and blood-pressure fields.
-
-Dataset source: [Add the original dataset URL here]
-
-The dataset and its licence or usage terms should be checked before sharing the raw data publicly. No real patient information should be included in this repository.
+No real patient information should be included in this repository.
 
 ## Dashboard Pages
 
